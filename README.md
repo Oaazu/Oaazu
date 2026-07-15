@@ -46,9 +46,11 @@ I'm focused on building work that is:
 End-to-end inventory analytics system analyzing 8,100 sales records across 90 products. Identified weekend demand surges of 1.2x–2.5x baseline and delivered dynamic reorder recommendations replacing a fixed schedule. Delivered with an interactive Streamlit dashboard, business memo, and stakeholder presentation.
 `Python` `SQLAlchemy` `SQLite` `Streamlit` `pandas` `Faker`
 
-### 🔹 [Emotion Detection API](https://github.com/Oaazu)
-Flask web app detecting emotions in text using IBM Watson NLP, with full unit test coverage and a perfect PyLint score.
-`Python` `Flask` `IBM Watson` `REST API`
+🔹 [Produce Shrink Analysis — QuickMart Inventory](https://github.com/Oaazu/case-study-03-produce-shrink-analysis)
+90-day produce department shrink simulation identifying that Berries and 
+Leafy Greens drive 61% of total loss. Built end-to-end on Zerve: synthetic 
+dataset modeled after real grocery retail operations, 3 visualizations, and 
+data-driven reorder recommendations. `Python` `pandas` `NumPy` `matplotlib`
 
 ### 🔹 [Coffee Sales Dashboard](https://github.com/Oaazu/coffedash.io)
 Interactive dashboard analyzing customer profiles, purchasing patterns, and geographic influences on coffee sales.
